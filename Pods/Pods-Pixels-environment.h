@@ -20,6 +20,12 @@
 // Please contact the author.
 // Version: 1.0beta.
 
+// MVDribbbleKit
+#define COCOAPODS_POD_AVAILABLE_MVDribbbleKit
+#define COCOAPODS_VERSION_MAJOR_MVDribbbleKit 0
+#define COCOAPODS_VERSION_MINOR_MVDribbbleKit 1
+#define COCOAPODS_VERSION_PATCH_MVDribbbleKit 0
+
 // pop
 #define COCOAPODS_POD_AVAILABLE_pop
 #define COCOAPODS_VERSION_MAJOR_pop 1

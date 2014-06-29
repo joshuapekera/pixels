@@ -2,10 +2,12 @@ PODS:
   - AsyncDisplayKit (1.0beta):
     - AsyncDisplayKit/no-arc
   - AsyncDisplayKit/no-arc (1.0beta)
+  - MVDribbbleKit (0.1.0)
   - pop (1.0.6)
 
 DEPENDENCIES:
   - AsyncDisplayKit (from `git@github.com:facebook/AsyncDisplayKit.git`)
+  - MVDribbbleKit (~> 0.1.0)
   - pop (~> 1.0)
 
 EXTERNAL SOURCES:
@@ -14,6 +16,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AsyncDisplayKit: c8f9506ec467f7562210fc58cefd41ed49dfc8c8
+  MVDribbbleKit: a5b6ea47387691be560dae627f46f01cf88a26b9
   pop: e518794da38942c05255eb64b36d894e70cb4f00
 
 COCOAPODS: 0.33.1

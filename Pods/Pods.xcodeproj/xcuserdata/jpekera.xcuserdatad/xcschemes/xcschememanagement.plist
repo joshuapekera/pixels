@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-Pixels-MVDribbbleKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-Pixels-pop.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -22,17 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1B1810A3B28744649423F527</key>
+		<key>006FA30B17C342C09953234A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3889237212534B33A3CCC580</key>
+		<key>6966A8C3DF9D45E59A85ADA8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B8ECA0E5FEBC4441B62FABF7</key>
+		<key>76DCFDC02F7E4888B065A2B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FF5285CDAA13455F8A55B3C2</key>
 		<dict>
 			<key>primary</key>
 			<true/>

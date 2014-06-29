@@ -1,7 +1,7 @@
 CLANG_CXX_LANGUAGE_STANDARD = c++11
 CLANG_CXX_LIBRARY = libc++
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
-HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/AsyncDisplayKit" "${PODS_ROOT}/Headers/pop"
-OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers" -isystem "${PODS_ROOT}/Headers/AsyncDisplayKit" -isystem "${PODS_ROOT}/Headers/pop"
-OTHER_LDFLAGS = -ObjC -lc++
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/AsyncDisplayKit" "${PODS_ROOT}/Headers/MVDribbbleKit" "${PODS_ROOT}/Headers/pop"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers" -isystem "${PODS_ROOT}/Headers/AsyncDisplayKit" -isystem "${PODS_ROOT}/Headers/MVDribbbleKit" -isystem "${PODS_ROOT}/Headers/pop"
+OTHER_LDFLAGS = -ObjC -lc++ -framework Foundation
 PODS_ROOT = ${SRCROOT}/Pods

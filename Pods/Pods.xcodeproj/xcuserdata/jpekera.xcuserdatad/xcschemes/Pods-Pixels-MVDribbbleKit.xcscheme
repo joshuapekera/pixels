@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "006FA30B17C342C09953234A"
-               BuildableName = "libPods-Pixels.a"
-               BlueprintName = "Pods-Pixels"
+               BlueprintIdentifier = "6966A8C3DF9D45E59A85ADA8"
+               BuildableName = "libPods-Pixels-MVDribbbleKit.a"
+               BlueprintName = "Pods-Pixels-MVDribbbleKit"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
